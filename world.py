@@ -1,4 +1,4 @@
-print("hello, universe!")
+print("hello, world!")
 
 def say_hello():
     print("Hello!")
